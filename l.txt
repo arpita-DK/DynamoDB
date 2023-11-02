@@ -1,0 +1,4 @@
+1. No express script an individual script should be created which should be run like node filename-create-table.js
+2. There should be no involvement of postman
+3. Another script should be there which will be separate filname-upload.js which should import the csv file and upload the data to already created table
+4 Test step should be first table should be created then upload should be performed and the data should be uploaded
